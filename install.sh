@@ -13,3 +13,4 @@ brew install --cask obs                     # OBS (https://github.com/BosEriko/o
 # Entertainment
 brew install --cask steam                   # Steam
 brew install --cask vlc                     # VLC
+brew install --cask spotify                 # Spotify
